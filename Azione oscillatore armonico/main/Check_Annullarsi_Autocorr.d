@@ -1,0 +1,5 @@
+Check_Annullarsi_Autocorr.o: Check_Annullarsi_Autocorr.c \
+ ../include/action.h ../include/global.h ../include/random.h \
+ ../include/trajectory.h ../include/correlatore.h ../include/Energia.h \
+ ../include/utility.h ../include/var_init.h ../include/print.h \
+ ../include/jacknife.h ../include/binning.h
